@@ -1,29 +1,10 @@
-# EcommerceStore
-
-Watch tutorial on how I built this store => https://youtu.be/-QV07KcnJEk
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Hassan Store
+## Description
+Full-Stack store website. The user can select and buy products
+### Developed with Angular, Sanity, express
+![pic1](https://user-images.githubusercontent.com/89380757/221134663-8bf82094-84ad-4903-bd45-ee63fae703a5.png)
+![pic2](https://user-images.githubusercontent.com/89380757/221134674-52a37956-fffc-44a0-8815-f33bf5021e13.png)
+![pic3](https://user-images.githubusercontent.com/89380757/221134677-5598ad26-3d2e-40e9-821f-f588267bf4a3.png)
+![pic4](https://user-images.githubusercontent.com/89380757/221134684-0f5f1a4c-818d-4360-865f-923a24f334eb.png)
+<br>
+thanks to freeCodeCamp
